@@ -13,10 +13,10 @@ st.info('Links zu 3rd Party EvE Websites, by Salvage Tony')
 
 icon_size = 20
 
-st_button('https://pathfinder.lost-in-w.space', 'Pathfinder', icon_size)
-st_button('https://appraise.imperium.nexus', 'GoonPraisal', icon_size)
-st_button('https://evetycoon.com/market', 'EvE Tycoon', icon_size)
-st_button('https://zkillboard.com/', 'zKillboard', icon_size)
-st_button('https://www.eve-scout.com/thera', 'Eve-Scout', icon_size)
-st_button('https://evemaps.dotlan.net/map', 'Dotlan', icon_size)
-st_button('https://ore.cerlestes.de/ore', 'Cerlestes', icon_size)
+st_button('https://pathfinder.lost-in-w.space', 'Pathfinder')
+st_button('https://appraise.imperium.nexus', 'GoonPraisal')
+st_button('https://evetycoon.com/market', 'EvE Tycoon')
+st_button('https://zkillboard.com/', 'zKillboard')
+st_button('https://www.eve-scout.com/thera', 'Eve-Scout')
+st_button('https://evemaps.dotlan.net/map', 'Dotlan')
+st_button('https://ore.cerlestes.de/ore', 'Cerlestes')
