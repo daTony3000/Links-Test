@@ -13,5 +13,10 @@ st.info('Links zu 3rd Party EvE Websites, by Salvage Tony')
 
 icon_size = 20
 
-st_button('youtube', 'https://youtube.com/dataprofessor', 'Data Professor YouTube channel', icon_size)
-st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
+st_button('pathfinder', 'https://pathfinder.lost-in-w.space', 'Pathfinder', icon_size)
+st_button('goonpraisal', 'https://appraise.imperium.nexus', 'GoonPraisal', icon_size)
+st_button('evetycoon', 'https://evetycoon.com/market', 'EvE Tycoon', icon_size)
+st_button('zkill', 'https://zkillboard.com/', 'zKillboard', icon_size)
+st_button('evescout', 'https://www.eve-scout.com/thera', 'Eve-Scout', icon_size)
+st_button('dotlan', 'https://evemaps.dotlan.net/map', 'Dotlan', icon_size)
+st_button('cerlestes', 'https://ore.cerlestes.de/ore', 'Cerlestes', icon_size)
