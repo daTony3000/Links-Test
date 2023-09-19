@@ -13,7 +13,7 @@ st.info('Links zu 3rd Party EvE Websites, by Salvage Tony')
 
 icon_size = 20
 
-st_button('https://pathfinder.lost-in-w.space', 'Pathfinder')
+st_button('https://pathfinder.lost-in-w.space', 'Pathfinder', 20)
 st_button('https://appraise.imperium.nexus', 'GoonPraisal')
 st_button('https://evetycoon.com/market', 'EvE Tycoon')
 st_button('https://zkillboard.com/', 'zKillboard')
